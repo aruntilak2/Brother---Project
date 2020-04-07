@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "CrossP-Native-PWA-App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

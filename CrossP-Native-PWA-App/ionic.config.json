@@ -1,0 +1,7 @@
+{
+  "name": "CrossP-Native-PWA-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
