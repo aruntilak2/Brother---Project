@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "CrossP-Native-PWA-App",
+  "appName": "tabs",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
